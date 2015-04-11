@@ -125,10 +125,6 @@ output: index.html
 
 --
 
-# 學校的開放資料？
-
---
-
 # SITCON 2014
 ## 學生與創新實作
 
@@ -190,27 +186,55 @@ output: index.html
 
 --
 
-### 定期聚
-* 台北
-* 新竹
-* 台中
-* 台南
-
---
-
 # SITCON 2015
-## 2015 / 03 / 7 ＠  中央研究院人文社會館
-
---
-
-# The True Hackers
-## 學生與創新實作
+<div align="center">
+  <img style="width: 650px" src="./img/2015_logo.png" />
+</div>
 
 --
 
 <div align="center">
-  <img style="width: 650px" src="./img/kp.jpg" />
+  <img style="width: 650px" src="./img/2015_1.jpg" />
 </div>
+
+--
+
+<div align="center">
+  <img style="width: 650px" src="./img/2015_2.jpg" />
+</div>
+
+--
+
+<div align="center">
+  <img style="width: 650px" src="./img/2015_3.jpg" />
+</div>
+
+--
+
+<div align="center">
+  <img style="width: 650px" src="./img/2015_4.jpg" />
+</div>
+
+--
+
+<h2 style="font-size: 72px">
+  2015 SITCON 夏令營
+</h2>
+<br />
+<div align="center">
+  <img style="width: 650px" src="./img/camp2015banner.jpg" />
+    <a href="http://fb.me/SITCONCamp" target="_blank">http://fb.me/SITCONCamp</a>
+</div>
+
+--
+
+# 定期聚
+
+--
+
+<h1 style="font-size: 72px">
+  SITCON 籌備 / 開源專案
+</h1>
 
 --
 
