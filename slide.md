@@ -115,6 +115,8 @@ output: index.html
 - 2017: Internet For Next Generation
 - 2018: Popular Computer Science
 - 2019: Algorithm in a Box 開箱演算法
+- 2020: #define student
+- 2021: 算盤的後裔
 
 --
 
@@ -126,6 +128,7 @@ output: index.html
 - 2017: 同學，你這樣經營社群？學生資訊社群的藝術
 - 2018: 台灣學術環境網路的監管與治理
 - 2019: 你決定的演算法與決定你的演算法
+- 2020: 你廢文再收掉服務！大型資訊企業決策的自由與責任
 
 --
 
@@ -136,11 +139,13 @@ output: index.html
 --
 
 ### 投稿議程
-- Talk / Presentation
+- Presentation / Talk
 
-- Short Talk / Espresso
+- Double Espresso
 
-- Unconf
+- Espresso / Short Talk
+
+- 開放式議程/ Unconf
 
 - Lightning Talk
 
