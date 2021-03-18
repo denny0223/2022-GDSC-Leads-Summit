@@ -319,7 +319,7 @@ output: index.html
 --
 
 # 紀錄
-## Mailing List / Google Drive / HackMD
+## [Mailing List](https://groups.google.com/g/sitcon-general) / [Google Drive](https://drive.google.com/drive/folders/0AIx9UW7aBiDgUk9PVA) / [HackMD](https://hackmd.io/@SITCON)
 
 --
 
