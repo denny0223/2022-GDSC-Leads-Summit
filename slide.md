@@ -66,7 +66,7 @@ output: index.html
 
 # 研討會
 ## Since 2013
-## 200 人 -> 1200 人
+## 200 人 -> 1300 人
 
 --
 
@@ -109,26 +109,28 @@ output: index.html
 --
 
 ### 年會主題
-- 2014: 學生與創新實做
-- 2015: The True Hackers
-- 2016: Let's Open Source!
-- 2017: Internet For Next Generation
-- 2018: Popular Computer Science
-- 2019: Algorithm in a Box 開箱演算法
-- 2020: #define student
+- X: Cat in a Maze
 - 2021: 算盤的後裔
+- 2020: #define student
+- 2019: Algorithm in a Box 開箱演算法
+- 2018: Popular Computer Science
+- 2017: Internet For Next Generation
+- 2016: Let's Open Source!
+- 2015: The True Hackers
+- 2014: 學生與創新實做
 
 --
 
 ### 論壇
-- 2013: 你想用 coding 改變怎樣的世界
-- 2014: 學生與實作能力
-- 2015: 「學生參與校務系統開發」、「校園 Open Data、Open API」
-- 2016: 論臺灣資訊普及教育：過去、現在與未來
-- 2017: 同學，你這樣經營社群？學生資訊社群的藝術
-- 2018: 台灣學術環境網路的監管與治理
-- 2019: 你決定的演算法與決定你的演算法
+- 2021: 同學你這樣學寫程式？現今教育體系下的程式學習
 - 2020: 你廢文再收掉服務！大型資訊企業決策的自由與責任
+- 2019: 你決定的演算法與決定你的演算法
+- 2018: 台灣學術環境網路的監管與治理
+- 2017: 同學，你這樣經營社群？學生資訊社群的藝術
+- 2016: 論臺灣資訊普及教育：過去、現在與未來
+- 2015: 「學生參與校務系統開發」、「校園 Open Data、Open API」
+- 2014: 學生與實作能力
+- 2013: 你想用 coding 改變怎樣的世界
 
 --
 
@@ -151,8 +153,8 @@ output: index.html
 
 --
 
-# SITCON 2021
-## 2021 / 05 / 29 → 2021 / 09 / 04
+# SITCON 2022
+## 2022 / 09 / 04
 ## 中央研究院 人文社會科學館
 
 --
