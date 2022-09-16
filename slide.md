@@ -1,16 +1,21 @@
-title: SITCON
+title: 社群心法： 如何經營與規劃社群活動
 output: index.html
 
 --
 
-<h1 style="font-size: 72px">
-  SITCON<br />
-  學生計算機年會
+<h1 style="font-size: 68px">
+  社群心法：<br />
+  如何經營與規劃社群活動
 </h1>
 <br />
 
+
 ## SITCON 共同發起人
 ## Denny Huang
+<br />
+<h2 style="font-size: 16px">
+2022/09/17 - 2022 Google Developers Community Leads Summit
+</h2>
 
 --
 
@@ -21,11 +26,38 @@ output: index.html
   <b>Denny Huang</b>
 </h2>
 
-* SITCON 2013, 2014 總召
+* SITCON 共同發起人，2013、2014 總召
 
-* Rayark Inc.
+* Rayark Inc. - Data Team Lead
 
 * <a href="https://denny.one/" target="_blank">About me</a>
+
+--
+
+<div align="center">
+  <img style="height:400px" src="./img/sitcon-logo.svg" />
+  <h2>學生計算機年會</h2>
+  <h2>Students’ Information Technology Conference</h2>
+  <a href="http://sitcon.org/">https://sitcon.org/</a>
+</div>
+
+--
+
+### 社團/社群參與
+- SITCON
+- COSCUP 2022 總召組
+- HITCON PEACE 2022 副召
+- 大同大學資訊創意研究社 創社社長
+- 大同大學魔術社 社長（100 學年度）
+- 成淵高中魔術社 創社社長
+
+--
+
+# 動機？
+
+--
+
+# 社群
 
 --
 
@@ -54,6 +86,7 @@ output: index.html
 
 <div align="center">
   <img style="height:400px" src="./img/sitcon-logo.svg" />
+  <h2>學生計算機年會</h2>
   <h2>Students’ Information Technology Conference</h2>
   <a href="http://sitcon.org/">https://sitcon.org</a>
 </div>
@@ -98,64 +131,41 @@ output: index.html
 
 --
 
+### 中央研究院 人文社會科學館 since 2014
 <div align="center">
   <img style="width: 800px" src="./img/2019kn.jpg" />
 </div>
 
 --
 
-<iframe width="800" height="600" src="https://www.youtube.com/embed/rlCiwaC-UUE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/TFIvDnINWBM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 --
 
-### 年會主題
-- X: Cat in a Maze
-- 2021: 算盤的後裔
-- 2020: #define student
-- 2019: Algorithm in a Box 開箱演算法
-- 2018: Popular Computer Science
-- 2017: Internet For Next Generation
-- 2016: Let's Open Source!
-- 2015: The True Hackers
-- 2014: 學生與創新實做
+# 經營
 
 --
 
-### 論壇
-- 2021: 同學你這樣學寫程式？現今教育體系下的程式學習
-- 2020: 你廢文再收掉服務！大型資訊企業決策的自由與責任
-- 2019: 你決定的演算法與決定你的演算法
-- 2018: 台灣學術環境網路的監管與治理
-- 2017: 同學，你這樣經營社群？學生資訊社群的藝術
-- 2016: 論臺灣資訊普及教育：過去、現在與未來
-- 2015: 「學生參與校務系統開發」、「校園 Open Data、Open API」
-- 2014: 學生與實作能力
-- 2013: 你想用 coding 改變怎樣的世界
+# 總召
 
 --
 
-<div align="center">
-  <img style="width: 800px" src="./img/2019panel.jpg" />
-</div>
+# Coordinator
 
 --
 
-### 投稿議程
-- Presentation / Talk
-
-- Double Espresso
-
-- Espresso / Short Talk
-
-- 開放式議程/ Unconf
-
-- Lightning Talk
+### 領導者
+- 與團隊成員平等
+- 凝聚共識
+- 講好故事
+	- 破除知識詛咒
+- 關心你的夥伴們
+	- 團隊成員
+	- 利害關係人
 
 --
 
-# SITCON 2022
-## 2022 / 09 / 04
-## 中央研究院 人文社會科學館
+# 活動舉辦
 
 --
 
@@ -280,23 +290,56 @@ output: index.html
 
 --
 
-# 海外影響
+# 傳統?
 
 --
 
-### 香港
+# 目的
+
+--
+
+# 目標受眾
+## TA, Target Audience
+
+--
+
+### [大同大學資訊創意研究社](https://ttucsc.denny.one/)
+<br />
 <div align="center">
-  <img style="height: 450px" src="./img/hk.jpg" />
-  <h2>SITCON x HK</h2>
+  <img style="height: 221px" src="./img/ttucscec.png" />
 </div>
 
 --
 
-### 中國
+### 社課 - 認識 Linux 發行版
 <div align="center">
-  <img style="height: 450px" src="./img/cn.jpg" />
-  <h2>SOSCON 學生開源年會</h2>
+  <img style="width: 800px" src="./img/intro-linux.jpg" />
 </div>
+
+--
+
+### [社團程式設計競賽](https://ttucsc.denny.one/sites.google.com/site/ttucsc/programming_competition_3rd.html)
+<div align="center">
+  <img style="width: 800px" src="./img/ttupc.jpg" />
+</div>
+
+--
+
+### 2012 夏日的 Web 樂園 with Mozilla
+<div align="center">
+  <img style="width: 800px" src="./img/2012-mozilla-1.jpg" />
+</div>
+
+--
+
+### 2012 夏日的 Web 樂園 with Mozilla
+<div align="center">
+  <img style="width: 800px" src="./img/2012-mozilla-2.jpg" />
+</div>
+
+--
+
+# 傳承
 
 --
 
@@ -312,16 +355,12 @@ output: index.html
 
 --
 
-# 傳統?
-
---
-
-# 目的
-
---
-
 # 紀錄
-## [Mailing List](https://groups.google.com/g/sitcon-general) / [Google Drive](https://drive.google.com/drive/folders/0AIx9UW7aBiDgUk9PVA) / [HackMD](https://hackmd.io/@SITCON)
+## [Mailing List](https://groups.google.com/g/sitcon-general) / [Google Drive](https://drive.google.com/drive/folders/0AIx9UW7aBiDgUk9PVA) / [HackMD](https://hackmd.io/@SITCON) / [GitLab](https://gitlab.com/sitcon-tw/2022/2022-board/-/issues)
+
+--
+
+# [預約跳坑](https://sitcon.org/2022/staff)
 
 --
 
